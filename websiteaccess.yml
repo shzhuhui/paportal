@@ -1,0 +1,15 @@
+- adx_managecontentsnippets: false
+  adx_managesitemarkers: false
+  adx_manageweblinksets: false
+  adx_name: 基础门户的预览权限
+  adx_previewunpublishedentities: true
+  adx_websiteaccess_webrole: []
+  adx_websiteaccessid: 4cc7de74-3f3d-ed11-bba2-000d3a85680c
+- adx_managecontentsnippets: true
+  adx_managesitemarkers: true
+  adx_manageweblinksets: true
+  adx_name: 基础门户的管理权限
+  adx_previewunpublishedentities: true
+  adx_websiteaccess_webrole:
+  - 1ec7de74-3f3d-ed11-bba2-000d3a85680c
+  adx_websiteaccessid: 4dc7de74-3f3d-ed11-bba2-000d3a85680c

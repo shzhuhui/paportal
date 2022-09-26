@@ -1,0 +1,14 @@
+adx_enablerating: false
+adx_enabletracking: false
+adx_excludefromsearch: false
+adx_hiddenfromsitemap: true
+adx_isroot: false
+adx_name: 搜索
+adx_pagetemplateid: 3df3e36e-3f3d-ed11-bba2-000d3a85680c
+adx_parentpageid: 07c7de74-3f3d-ed11-bba2-000d3a85680c
+adx_partialurl: search
+adx_publishingstateid: 62f3e36e-3f3d-ed11-bba2-000d3a85680c
+adx_rootwebpageid: 11c7de74-3f3d-ed11-bba2-000d3a85680c
+adx_sharedpageconfiguration: false
+adx_webpageid: 09c7de74-3f3d-ed11-bba2-000d3a85680c
+adx_webpagelanguageid: 8c64e57a-3f3d-ed11-bba2-000d3a85680c

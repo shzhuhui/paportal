@@ -1,0 +1,12 @@
+- adx_answer: 否
+  adx_displayorder: 2
+  adx_name: No
+  adx_pollid: 41f3e36e-3f3d-ed11-bba2-000d3a85680c
+  adx_polloptionid: 4cf3e36e-3f3d-ed11-bba2-000d3a85680c
+  adx_votes: 2
+- adx_answer: 是
+  adx_displayorder: 1
+  adx_name: Yes
+  adx_pollid: 41f3e36e-3f3d-ed11-bba2-000d3a85680c
+  adx_polloptionid: 4df3e36e-3f3d-ed11-bba2-000d3a85680c
+  adx_votes: 6
