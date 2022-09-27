@@ -398,7 +398,7 @@ adx_entityformmetadata:
 adx_entitypermission:
 - RecordId: 8d64e57a-3f3d-ed11-bba2-000d3a85680c
   DisplayName: 反馈
-  CheckSum: 9a8cbc17f88acbd8273be0ed6bc77f66bbbc73347334d31430f1e772c839e0ec
+  CheckSum: 10db042923fdf0660463632fca544124bc6abc046e6f62c8e90486af9d03abc4
   IsDeleted: false
 adx_pagetemplate:
 - RecordId: 38f3e36e-3f3d-ed11-bba2-000d3a85680c
@@ -903,7 +903,7 @@ adx_webpage:
   IsDeleted: false
 - RecordId: 0ec7de74-3f3d-ed11-bba2-000d3a85680c
   DisplayName: 主页
-  CheckSum: 0501ea060b04bac1847ac66be029e826df5be90cbced413aaa62d277f17cddb3
+  CheckSum: b367a451745b4884dcf63a483185b9755589f44a5633c3b065b29c8a502f1265
   IsDeleted: false
 - RecordId: 0dc7de74-3f3d-ed11-bba2-000d3a85680c
   DisplayName: 拒绝访问
@@ -911,7 +911,7 @@ adx_webpage:
   IsDeleted: false
 - RecordId: 12c7de74-3f3d-ed11-bba2-000d3a85680c
   DisplayName: 子页面 2
-  CheckSum: ee72b1445a626e2b40c5d884f61d06f1a871a05b9643cc764c57f1170d1dea73
+  CheckSum: 4ebfbe0509cd8a16d314dbc7f1df7ac7bfed0d934c6f3d70b2c28fe118981051
   IsDeleted: false
 - RecordId: 0fc7de74-3f3d-ed11-bba2-000d3a85680c
   DisplayName: 配置文件
@@ -931,7 +931,7 @@ adx_webpage:
   IsDeleted: false
 - RecordId: 0bc7de74-3f3d-ed11-bba2-000d3a85680c
   DisplayName: 默认离线页面
-  CheckSum: de0b131fee3ca5e12399e99c4aa9b119be799fa8ccc07ec4ebd37e832295999f
+  CheckSum: c431ccf55e3602f949bc154f706756fb73a3f6d8f1373d24dc259b7abd5917ea
   IsDeleted: false
 - RecordId: 16c7de74-3f3d-ed11-bba2-000d3a85680c
   DisplayName: 找不到页面
@@ -997,8 +997,8 @@ adx_webrole:
   IsDeleted: false
 adx_website:
 - RecordId: 4bc7de74-3f3d-ed11-bba2-000d3a85680c
-  DisplayName: shzhuhui - shzhuhui
-  CheckSum: 9e3b00635e48a6d53dd1a1f0d74a0d0d840ce1a204ba9615a37c6b23fd2ce037
+  DisplayName: paportal
+  CheckSum: c22fe180daf09d3df51c970b7dd9680c8d56c0df2c79bc546d7dd8ad9d21141e
   IsDeleted: false
 adx_websiteaccess:
 - RecordId: 4dc7de74-3f3d-ed11-bba2-000d3a85680c
@@ -1007,7 +1007,7 @@ adx_websiteaccess:
   IsDeleted: false
 - RecordId: 4cc7de74-3f3d-ed11-bba2-000d3a85680c
   DisplayName: 基础门户的预览权限
-  CheckSum: 684514985ef64fbe7c7aa67f6f11cd092599b25d060996e5d6e717f0af92082d
+  CheckSum: cf56b259482ffd026edbae319d257d9967f5092a63344b3bac2594ce3afad0c1
   IsDeleted: false
 adx_websitebinding:
 - RecordId: be04cda9-3f3d-ed11-bba2-000d3a85680c

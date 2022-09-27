@@ -1,6 +1,6 @@
-- adx_managecontentsnippets: false
-  adx_managesitemarkers: false
-  adx_manageweblinksets: false
+- adx_managecontentsnippets: true
+  adx_managesitemarkers: true
+  adx_manageweblinksets: true
   adx_name: 基础门户的预览权限
   adx_previewunpublishedentities: true
   adx_websiteaccess_webrole: []
